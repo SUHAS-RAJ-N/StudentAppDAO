@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dashboards</title>
+    <title>Dashboard</title>
     <style>
         body {
             font-family: Arial, sans-serif;
